@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-openai
+pydantic
+python-dotenv
+streamlit
+requests
+faiss-cpu
+sentence-transformers
+lightgbm
+joblib
+scikit-learn==1.6.1

@@ -1,0 +1,27 @@
+# Web
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+
+# LLM
+langchain
+langchain-openai
+langchain-core
+openai
+
+# Config & validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# HTTP (Streamlit ↔ FastAPI 연동 시 유용)
+httpx
+requests
